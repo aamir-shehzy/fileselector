@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">fileselector</string>
+    <string name="enterFileName">输入文件名称：</string>
+    <string name="saveButtonText">Save</string>
+    <string name="cancelButtonText">取消</string>
+    <string name="cannotSaveFileMessage">Cannot save file</string>
+    <string name="fileNameFirstMessage">Please enter the file name first</string>
+    <string name="okButtonText">OK</string>
+    <string name="loadButtonText">确定</string>
+    <string name="accessDenied">Access denied</string>
+    <string name="missingFile">No such file</string>
+    <string name="newFolderButtonText">New folder</string>
+    <string name="newFolderDialogMessage">Create new folder</string>
+    <string name="createButtonText">Create</string>
+    <string name="folderCreationOk">Folder created successfully</string>
+    <string name="folderCreationError">Error while creating folder</string>
+    <string name="information">Information</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+
+</resources>
